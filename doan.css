@@ -50,7 +50,7 @@ header input{
 header input:checked ~ .menu-icon .menu-line:before{
 	transform: rotate(90deg);
 	top: 0;
-}
+} 
 header input:checked ~ .menu-icon .menu-line:after{
 	transform: rotate(90deg);
 	top: 0;
